@@ -11,6 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm just for test github')
+    print_hi('just for test github commit')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
